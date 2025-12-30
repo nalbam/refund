@@ -99,8 +99,8 @@ export const SUBGROUPS: Subgroup[] = [
 ## 사용 방법
 
 1. 웹사이트 접속
-   - 직접 접속: `https://your-domain.com`
-   - URL 파라미터로 소모임 사전 선택: `https://your-domain.com/?subgroup=aiengineering`
+   - 직접 접속: `https://refund.awskr.org`
+   - URL 파라미터로 소모임 사전 선택: `https://refund.awskr.org/?subgroup=aiengineering`
 2. 소모임 선택
 3. 신청자 정보 입력
    - 신청자 이름 (입금하신 이름)

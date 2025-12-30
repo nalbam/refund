@@ -210,10 +210,10 @@ export const SUBGROUPS: Subgroup[] = [
 소모임을 미리 선택한 상태로 페이지 접근 가능:
 
 ```
-https://your-domain.com/?subgroup=aiengineering
-https://your-domain.com/?subgroup=container
-https://your-domain.com/?subgroup=kiro
-https://your-domain.com/?subgroup=sandbox
+https://refund.awskr.org/?subgroup=aiengineering
+https://refund.awskr.org/?subgroup=container
+https://refund.awskr.org/?subgroup=kiro
+https://refund.awskr.org/?subgroup=sandbox
 ```
 
 - `subgroup` 파라미터에 소모임 ID를 지정하면 해당 소모임이 자동 선택됨
